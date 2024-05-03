@@ -1,0 +1,14 @@
+C:\Users\yufin\source\repos\ConsoleApp3\bin\Debug\net8.0\StockQuote.exe
+C:\Users\yufin\source\repos\ConsoleApp3\bin\Debug\net8.0\StockQuote.deps.json
+C:\Users\yufin\source\repos\ConsoleApp3\bin\Debug\net8.0\StockQuote.runtimeconfig.json
+C:\Users\yufin\source\repos\ConsoleApp3\bin\Debug\net8.0\StockQuote.dll
+C:\Users\yufin\source\repos\ConsoleApp3\bin\Debug\net8.0\StockQuote.pdb
+C:\Users\yufin\source\repos\ConsoleApp3\obj\Debug\net8.0\StockQuote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yufin\source\repos\ConsoleApp3\obj\Debug\net8.0\StockQuote.AssemblyInfoInputs.cache
+C:\Users\yufin\source\repos\ConsoleApp3\obj\Debug\net8.0\StockQuote.AssemblyInfo.cs
+C:\Users\yufin\source\repos\ConsoleApp3\obj\Debug\net8.0\StockQuote.csproj.CoreCompileInputs.cache
+C:\Users\yufin\source\repos\ConsoleApp3\obj\Debug\net8.0\StockQuote.dll
+C:\Users\yufin\source\repos\ConsoleApp3\obj\Debug\net8.0\refint\StockQuote.dll
+C:\Users\yufin\source\repos\ConsoleApp3\obj\Debug\net8.0\StockQuote.pdb
+C:\Users\yufin\source\repos\ConsoleApp3\obj\Debug\net8.0\StockQuote.genruntimeconfig.cache
+C:\Users\yufin\source\repos\ConsoleApp3\obj\Debug\net8.0\ref\StockQuote.dll
